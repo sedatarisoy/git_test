@@ -1,0 +1,1 @@
+This is Sedat's first git project!
